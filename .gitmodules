@@ -1,0 +1,6 @@
+[submodule "style-manager"]
+	path = style-manager
+	url = https://github.com/sigcorporativo-ja/style-manager.git
+[submodule "history-navigation"]
+	path = history-navigation
+	url = https://github.com/sigcorporativo-ja/history-navigation.git
