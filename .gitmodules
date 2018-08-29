@@ -4,3 +4,6 @@
 [submodule "history-navigation"]
 	path = history-navigation
 	url = https://github.com/sigcorporativo-ja/history-navigation.git
+[submodule "localizador-catastral"]
+	path = localizador-catastral
+	url = https://github.com/sigcorporativo-ja/localizador-catastral.git
