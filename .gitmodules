@@ -7,3 +7,6 @@
 [submodule "localizador-catastral"]
 	path = localizador-catastral
 	url = https://github.com/sigcorporativo-ja/localizador-catastral.git
+[submodule "managelayers"]
+	path = managelayers
+	url = https://github.com/sigcorporativo-ja/managelayers.git
