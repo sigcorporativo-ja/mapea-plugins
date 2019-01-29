@@ -10,3 +10,15 @@
 [submodule "managelayers"]
 	path = managelayers
 	url = https://github.com/sigcorporativo-ja/managelayers.git
+[submodule "addservices"]
+	path = addservices
+	url = https://github.com/sigcorporativo-ja/addservices.git
+[submodule "locallayers"]
+	path = locallayers
+	url = https://github.com/sigcorporativo-ja/locallayers.git
+[submodule "catalogsearch"]
+	path = catalogsearch
+	url = https://github.com/sigcorporativo-ja/catalogsearch.git
+[submodule "catastrosearch"]
+	path = catastrosearch
+	url = https://github.com/sigcorporativo-ja/catastrosearch.git
