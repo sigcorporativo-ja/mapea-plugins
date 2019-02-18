@@ -33,3 +33,6 @@
 	path = catastrosearch
 	
 	url = https://github.com/sigcorporativo-ja/catastrosearch.git
+[submodule "wmc"]
+	path = wmc
+	url = https://github.com/sigcorporativo-ja/wmc.git
