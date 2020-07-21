@@ -55,3 +55,6 @@
 [submodule "windrose"]
 	path = windrose
 	url = https://github.com/sigcorporativo-ja/windrose
+[submodule "topographicprofile"]
+	path = topographicprofile
+	url = https://github.com/sigcorporativo-ja/topographicprofile
