@@ -79,3 +79,6 @@
 [submodule "lyrcompare"]
 	path = lyrcompare
 	url = https://github.com/sigcorporativo-ja/lyrcompare
+[submodule "maxextzoom"]
+	path = maxextzoom
+	url = https://github.com/sigcorporativo-ja/maxextzoom
