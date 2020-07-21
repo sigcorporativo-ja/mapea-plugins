@@ -64,3 +64,6 @@
 [submodule "spatialcalculator"]
 	path = spatialcalculator
 	url = https://github.com/sigcorporativo-ja/spatialcalculator
+[submodule "referencelocatorcatastro"]
+	path = referencelocatorcatastro
+	url = https://github.com/sigcorporativo-ja/referencelocatorcatastro
