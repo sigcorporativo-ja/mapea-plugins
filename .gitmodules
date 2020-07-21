@@ -34,3 +34,6 @@
 [submodule "view-history"]
 	path = view-history
 	url = https://github.com/sigcorporativo-ja/view-history
+[submodule "srsselector"]
+	path = srsselector
+	url = https://github.com/sigcorporativo-ja/srsselector
