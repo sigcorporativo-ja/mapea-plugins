@@ -73,3 +73,6 @@
 [submodule "edition"]
 	path = edition
 	url = https://github.com/sigcorporativo-ja/edition
+[submodule "fullviewmap"]
+	path = fullviewmap
+	url = https://github.com/sigcorporativo-ja/fullviewmap
