@@ -31,3 +31,6 @@
 [submodule "xylocator"]
 	path = xylocator
 	url = https://github.com/sigcorporativo-ja/xylocator
+[submodule "view-history"]
+	path = view-history
+	url = https://github.com/sigcorporativo-ja/view-history
