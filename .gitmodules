@@ -67,3 +67,6 @@
 [submodule "referencelocatorcatastro"]
 	path = referencelocatorcatastro
 	url = https://github.com/sigcorporativo-ja/referencelocatorcatastro
+[submodule "transparency"]
+	path = transparency
+	url = https://github.com/sigcorporativo-ja/transparency
