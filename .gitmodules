@@ -43,3 +43,6 @@
 [submodule "freedraw"]
 	path = freedraw
 	url = https://github.com/sigcorporativo-ja/freedraw
+[submodule "filteredsearch"]
+	path = filteredsearch
+	url = https://github.com/sigcorporativo-ja/filteredsearch
