@@ -52,3 +52,6 @@
 [submodule "zoomextent"]
 	path = zoomextent
 	url = https://github.com/sigcorporativo-ja/zoomextent
+[submodule "windrose"]
+	path = windrose
+	url = https://github.com/sigcorporativo-ja/windrose
