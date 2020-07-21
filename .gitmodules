@@ -49,3 +49,6 @@
 [submodule "mirrorpanel"]
 	path = mirrorpanel
 	url = https://github.com/sigcorporativo-ja/mirrorpanel
+[submodule "zoomextent"]
+	path = zoomextent
+	url = https://github.com/sigcorporativo-ja/zoomextent
