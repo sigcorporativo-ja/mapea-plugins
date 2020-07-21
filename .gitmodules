@@ -25,3 +25,6 @@
 [submodule "wmc"]
 	path = wmc
 	url = https://github.com/sigcorporativo-ja/wmc.git
+[submodule "showcoordinates"]
+	path = showcoordinates
+	url = https://github.com/sigcorporativo-ja/showcoordinates
