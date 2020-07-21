@@ -82,3 +82,6 @@
 [submodule "maxextzoom"]
 	path = maxextzoom
 	url = https://github.com/sigcorporativo-ja/maxextzoom
+[submodule "addlayers"]
+	path = addlayers
+	url = https://github.com/sigcorporativo-ja/addlayers
