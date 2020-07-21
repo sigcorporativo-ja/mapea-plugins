@@ -40,3 +40,6 @@
 [submodule "magnify"]
 	path = magnify
 	url = https://github.com/sigcorporativo-ja/magnify
+[submodule "freedraw"]
+	path = freedraw
+	url = https://github.com/sigcorporativo-ja/freedraw
