@@ -37,3 +37,6 @@
 [submodule "srsselector"]
 	path = srsselector
 	url = https://github.com/sigcorporativo-ja/srsselector
+[submodule "magnify"]
+	path = magnify
+	url = https://github.com/sigcorporativo-ja/magnify
