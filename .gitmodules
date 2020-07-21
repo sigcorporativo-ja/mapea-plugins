@@ -46,3 +46,6 @@
 [submodule "filteredsearch"]
 	path = filteredsearch
 	url = https://github.com/sigcorporativo-ja/filteredsearch
+[submodule "mirrorpanel"]
+	path = mirrorpanel
+	url = https://github.com/sigcorporativo-ja/mirrorpanel
