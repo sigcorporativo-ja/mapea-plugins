@@ -85,3 +85,6 @@
 [submodule "addlayers"]
 	path = addlayers
 	url = https://github.com/sigcorporativo-ja/addlayers
+[submodule "buffer"]
+	path = buffer
+	url = https://github.com/sigcorporativo-ja/buffer
