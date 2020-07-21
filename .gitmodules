@@ -61,3 +61,6 @@
 [submodule "timeline"]
 	path = timeline
 	url = https://github.com/sigcorporativo-ja/timeline
+[submodule "spatialcalculator"]
+	path = spatialcalculator
+	url = https://github.com/sigcorporativo-ja/spatialcalculator
