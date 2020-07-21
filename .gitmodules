@@ -28,3 +28,6 @@
 [submodule "showcoordinates"]
 	path = showcoordinates
 	url = https://github.com/sigcorporativo-ja/showcoordinates
+[submodule "xylocator"]
+	path = xylocator
+	url = https://github.com/sigcorporativo-ja/xylocator
