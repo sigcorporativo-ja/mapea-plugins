@@ -58,3 +58,6 @@
 [submodule "topographicprofile"]
 	path = topographicprofile
 	url = https://github.com/sigcorporativo-ja/topographicprofile
+[submodule "timeline"]
+	path = timeline
+	url = https://github.com/sigcorporativo-ja/timeline
