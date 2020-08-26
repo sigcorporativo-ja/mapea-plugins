@@ -13,9 +13,6 @@
 [submodule "addservices"]
 	path = addservices
 	url = https://github.com/sigcorporativo-ja/addservices.git
-[submodule "locallayers"]
-	path = locallayers
-	url = https://github.com/sigcorporativo-ja/locallayers.git
 [submodule "catalogsearch"]
 	path = catalogsearch
 	url = https://github.com/sigcorporativo-ja/catalogsearch.git
