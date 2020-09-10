@@ -11,7 +11,7 @@ La finalidad de este repositorio es únicamente la de recopilar en un mismo punt
 * **fullviewmap**: Permite poner el mapa en pantalla completa.
 * **history-navigation**: Controles para gestión de la vista y navegación del mapa.
 * **locallayers**: Visualización de ficheros de información espacial locales.
-* **lyrcompare**: Poner el mapa en pantalla completa.
+* **lyrcompare**: Permite comparar varias capas.
 * **magnify**: Realizar un efecto de zoom o de lupa sobre una o varias capas.
 * **managelayers**: TOC avanzado.
 * **maxextzoom**: Realizar un zoom a la extensión del mapa.
