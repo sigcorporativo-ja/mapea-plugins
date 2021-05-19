@@ -82,3 +82,6 @@
 [submodule "buffer"]
 	path = buffer
 	url = https://github.com/sigcorporativo-ja/buffer
+[submodule "toponomysearch"]
+	path = toponomysearch
+	url = https://github.com/sigcorporativo-ja/toponomysearch
