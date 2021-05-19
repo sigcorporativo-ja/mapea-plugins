@@ -23,6 +23,7 @@ La finalidad de este repositorio es únicamente la de recopilar en un mismo punt
 * **style-manager**: Edición visual de simbología para capas vectoriales.
 * **timeline**: Permite visualizar la línea del tiempo.
 * **topographicprofile**: A partir de un eje dibujado, muestra un perfil longitudinal del terreno.
+* **toponomysearch**: Búsqueda de topónimos.
 * **transparency**: Permite realizar un efecto de transparencia sobre una capa.
 * **view-history**: Permite navegar por el historial de vistas.
 * **windrose**: Permite mostrar una rosa de los vientos en el mapa.
