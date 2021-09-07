@@ -85,3 +85,6 @@
 [submodule "toponomysearch"]
 	path = toponomysearch
 	url = https://github.com/sigcorporativo-ja/toponomysearch
+[submodule "searchpanel"]
+	path = searchpanel
+	url = https://github.com/emiliopardo/searchpanel
