@@ -17,6 +17,7 @@ La finalidad de este repositorio es únicamente la de recopilar en un mismo punt
 * **maxextzoom**: Realizar un zoom a la extensión del mapa.
 * **mirrorpanel**: Comparar varias capas dividiendo la pantalla en varias partes.
 * **referencelocatorcatastro**: Búsqueda de elementos catastrales incluida por ubicación.
+* **searchpanel**: Generación de panel de búsqueda para cores de Geobúsquedas.
 * **showcoordinates**: Ver la coordenadas seleccionadas en el mapa.
 * **spatialcalculator**: Cambia unas coordenadas entre sistemas de referencia.
 * **srsselector**: Permite cambiar la proyección del mapa.
