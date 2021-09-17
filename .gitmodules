@@ -88,3 +88,6 @@
 [submodule "searchpanel"]
 	path = searchpanel
 	url = https://github.com/emiliopardo/searchpanel
+[submodule "inputselectaddlayer"]
+	path = inputselectaddlayer
+	url = https://github.com/emiliopardo/inputselectaddlayer.git
