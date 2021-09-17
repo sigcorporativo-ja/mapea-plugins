@@ -10,6 +10,7 @@ La finalidad de este repositorio es únicamente la de recopilar en un mismo punt
 * **freedraw**: Dibujar diferentes geometrías en el mapa con diferentes colores.
 * **fullviewmap**: Permite poner el mapa en pantalla completa.
 * **history-navigation**: Controles para gestión de la vista y navegación del mapa.
+* **inputselectaddlayer**: Carga de capas WMS mediante un elemento html input select.
 * **locallayers**: Visualización de ficheros de información espacial locales.
 * **lyrcompare**: Permite comparar varias capas.
 * **magnify**: Realizar un efecto de zoom o de lupa sobre una o varias capas.
