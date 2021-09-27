@@ -16,7 +16,8 @@ La finalidad de este repositorio es únicamente la de recopilar en un mismo punt
   * [**zoomextent**](https://github.com/sigcorporativo-ja/zoomextent/tree/master): Realiza un zoom a la ventana rectangular que se indica en el mapa.
 
 * TOC
-  * [**managelayers**](https://github.com/sigcorporativo-ja/managelayers/tree/master): TOC avanzado.  
+  * [**managelayers**](https://github.com/sigcorporativo-ja/managelayers/tree/master): TOC avanzado.
+  * [**simpleegend**](https://github.com/emiliopardo/simplelegend): Generación de una leyenda simple.  
 
 * Coordenadas y SRS
   * [**showcoordinates**](https://github.com/sigcorporativo-ja/showcoordinates/tree/master): Ver la coordenadas seleccionadas en el mapa.
