@@ -91,3 +91,6 @@
 [submodule "inputselectaddlayer"]
 	path = inputselectaddlayer
 	url = https://github.com/emiliopardo/inputselectaddlayer.git
+[submodule "simplelegend"]
+	path = simplelegend
+	url = https://github.com/emiliopardo/simplelegend.git
