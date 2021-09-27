@@ -17,7 +17,7 @@ La finalidad de este repositorio es únicamente la de recopilar en un mismo punt
 
 * TOC
   * [**managelayers**](https://github.com/sigcorporativo-ja/managelayers/tree/master): TOC avanzado.
-  * [**simpleegend**](https://github.com/emiliopardo/simplelegend): Generación de una leyenda simple.  
+  * [**simplelegend**](https://github.com/emiliopardo/simplelegend): Generación de una leyenda simple.  
 
 * Coordenadas y SRS
   * [**showcoordinates**](https://github.com/sigcorporativo-ja/showcoordinates/tree/master): Ver la coordenadas seleccionadas en el mapa.
