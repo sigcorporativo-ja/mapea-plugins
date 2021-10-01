@@ -6,6 +6,7 @@ La finalidad de este repositorio es únicamente la de recopilar en un mismo punt
   * [**addlayers**](https://github.com/sigcorporativo-ja/addlayers/tree/master): Visualización de ficheros de información espacial locales. 
   * [**addservices**](https://github.com/sigcorporativo-ja/addservices/tree/master): Añadir capas WMS al vuelo.
   * [**inputselectaddlayer**](https://github.com/emiliopardo/inputselectaddlayer/tree/master): Carga de capas WMS mediante un elemento html input select.
+  * [**simplebaselayerselector**](https://github.com/emiliopardo/simplebaselayerselector/tree/master): Selector visual de capas base.
 
 * Navegación
   * [**fullviewmap**](https://github.com/sigcorporativo-ja/fullviewmap/tree/master): Permite poner el mapa en pantalla completa.
