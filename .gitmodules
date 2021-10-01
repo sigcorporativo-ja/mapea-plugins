@@ -94,3 +94,6 @@
 [submodule "simplelegend"]
 	path = simplelegend
 	url = https://github.com/emiliopardo/simplelegend.git
+[submodule "simplebaselayerselector"]
+	path = simplebaselayerselector
+	url = https://github.com/emiliopardo/simplebaselayerselector.git
