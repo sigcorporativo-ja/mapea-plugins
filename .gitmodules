@@ -97,3 +97,6 @@
 [submodule "simplebaselayerselector"]
 	path = simplebaselayerselector
 	url = https://github.com/emiliopardo/simplebaselayerselector.git
+[submodule "mapfooter"]
+	path = mapfooter
+	url = https://github.com/emiliopardo/mapfooter.git
