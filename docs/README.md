@@ -49,6 +49,7 @@ La finalidad de este repositorio es únicamente la de recopilar en un mismo punt
   * [**transparency**](https://github.com/sigcorporativo-ja/transparency/tree/master): Permite realizar un efecto de transparencia sobre una capa.
 
 * Utilidades
+  * [**mapfooter**](https://github.com/sigcorporativo-ja/windrose/tree/master): Generación automática de pie de página.
   * [**topographicprofile**](https://github.com/sigcorporativo-ja/topographicprofile/tree/master): A partir de un eje dibujado, muestra un perfil longitudinal del terreno.
-  * [**windrose**](https://github.com/sigcorporativo-ja/windrose/tree/master): Permite mostrar una rosa de los vientos en el mapa.
+  * [**windrose**](https://github.com/emiliopardo/mapfooter): Permite mostrar una rosa de los vientos en el mapa.
   * [**wmc**](https://github.com/sigcorporativo-ja/wmc/tree/master): Guardar y carga de sesión mediante WMC.
