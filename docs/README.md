@@ -35,6 +35,7 @@ La finalidad de este repositorio es únicamente la de recopilar en un mismo punt
   * [**catalogsearch**](https://github.com/sigcorporativo-ja/catalogsearch/tree/master): Búsquedas en servicio de metadatos.
   * [**catastrosearch**](https://github.com/sigcorporativo-ja/catastrosearch/tree/master): Búsqueda de elementos catastrales.
   * [**filteredsearch**](https://github.com/sigcorporativo-ja/filteredsearch/tree/master): Realizar búsquedas y aplicar diferentes filtros.
+  * [**findroute**](https://github.com/sigcorporativo-ja/findroute): Búsquedas de rutas Open Source Routing Machine (OSRM).
   * [**referencelocatorcatastro**](https://github.com/sigcorporativo-ja/referencelocatorcatastro/tree/master): Búsqueda de elementos catastrales incluida por ubicación.
   * [**searchpanel**](https://github.com/emiliopardo/searchpanel/tree/master): Generación de panel de búsqueda para cores de Geobúsquedas.
   * [**toponomysearch**](https://github.com/sigcorporativo-ja/toponomysearch/tree/main): Búsqueda de topónimos.
