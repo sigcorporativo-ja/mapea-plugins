@@ -100,3 +100,6 @@
 [submodule "findroute"]
 	path = findroute
 	url = https://github.com/sigcorporativo-ja/findroute.git
+[submodule "toponomysearch"]
+	path = toponomysearch
+	url = https://github.com/sigcorporativo-ja/toponomysearch.git
