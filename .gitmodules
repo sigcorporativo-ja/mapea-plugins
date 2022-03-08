@@ -100,6 +100,3 @@
 [submodule "mapfooter"]
 	path = mapfooter
 	url = https://github.com/emiliopardo/mapfooter.git
-[submodule "mapheader"]
-	path = mapheader
-	url = https://github.com/emiliopardo/mapheader.git
