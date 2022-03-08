@@ -103,3 +103,6 @@
 [submodule "toponomysearch"]
 	path = toponomysearch
 	url = https://github.com/sigcorporativo-ja/toponomysearch.git
+[submodule "mapheader"]
+	path = mapheader
+	url = https://github.com/emiliopardo/mapheader.git
