@@ -106,3 +106,6 @@
 [submodule "mapheader"]
 	path = mapheader
 	url = https://github.com/emiliopardo/mapheader.git
+[submodule "sidepanel"]
+	path = sidepanel
+	url = https://github.com/sigcorporativo-ja/sidepanel.git
