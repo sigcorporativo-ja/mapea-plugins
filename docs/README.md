@@ -52,6 +52,7 @@ La finalidad de este repositorio es únicamente la de recopilar en un mismo punt
 * Utilidades
   * [**mapheader**](https://github.com/emiliopardo/mapheader): Generación automática de pie de página.
   * [**mapfooter**](https://github.com/emiliopardo/mapfooter): Generación automática de pie de página.
+  * [**sidepanel**](https://github.com/sigcorporativo-ja/sidepanel): Agrupador de plugins en un panel lateral.
   * [**topographicprofile**](https://github.com/sigcorporativo-ja/topographicprofile/tree/master): A partir de un eje dibujado, muestra un perfil longitudinal del terreno.
   * [**windrose**](https://github.com/sigcorporativo-ja/windrose/tree/master): Permite mostrar una rosa de los vientos en el mapa.
   * [**wmc**](https://github.com/sigcorporativo-ja/wmc/tree/master): Guardar y carga de sesión mediante WMC.
