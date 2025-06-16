@@ -109,3 +109,6 @@
 [submodule "sidepanel"]
 	path = sidepanel
 	url = https://github.com/sigcorporativo-ja/sidepanel.git
+[submodule "vectors"]
+	path = vectors
+	url = https://github.com/sigcorporativo-ja/vectors.git
